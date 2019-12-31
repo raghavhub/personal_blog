@@ -5,7 +5,7 @@ redirect_from:
 ---
 # Raghavendran Ramakrishnan
 
-### M.S. @ Arizona State University, Tempe
+### M.S. Arizona State University, Tempe. raghavendran2652 AT gmail DOT com.
 
 ### Interests:
 
