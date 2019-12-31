@@ -3,3 +3,9 @@ description: Machine Learning, Computer Vision
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
