@@ -9,7 +9,7 @@ redirect_from:
 
 ### Short Bio:
 
-I am a graduate student at Arizona State University. I am currently working with Dr. Hemanth Venkateshwara at [Centre for Cognitive Ubiquitous Computing (CUbiC)](https://cubic.asu.edu/). I am particularly interested in  Multi Modal Representation learning. I previously was working as a Business Intelligence(BI) Developer at Accenture.
+I am a graduate student at Arizona State University. I am currently working with Dr. Hemanth Venkateshwara at [Centre for Cognitive Ubiquitous Computing (CUbiC)](https://cubic.asu.edu/). I am particularly interested in  Multi Modal Representation learning. I was previously working as a Business Intelligence(BI) Developer at Accenture.
 
 ### Interests:
 
