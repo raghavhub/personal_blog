@@ -7,6 +7,10 @@ redirect_from:
 
 ### M.S. Arizona State University, Tempe. raghavendran2652 AT gmail DOT com.
 
+### Short Bio:
+
+I am a graduate student at Arizona State University. I am currently working with Dr. Hemanth Venkateshwara at [Centre for Cognitive Ubiquitous Computing (CUbiC)](https://cubic.asu.edu/). I am particularly interested in  Multi Modal Representation learning. I previously was working as a Business Intelligence(BI) Developer at Accenture.
+
 ### Interests:
 
 * Developing intelligent agents and representations that can enable learning from multiple modalities (such as Vision & Language) at the same time (Multi-Modal representation learning).
