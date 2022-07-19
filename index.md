@@ -5,14 +5,16 @@ redirect_from:
 ---
 # Raghavendran Ramakrishnan
 
+### Machine Learning Consultant, IQVIA
 ### M.S. Arizona State University, Tempe. raghavendran2652 AT gmail DOT com.
 
 ### Short Bio:
 
-I am a graduate student at Arizona State University. I am currently working with Dr. Hemanth Venkateshwara at [Centre for Cognitive Ubiquitous Computing (CUbiC)](https://cubic.asu.edu/). I am particularly interested in  Multi Modal Representation learning. I was previously working as a Business Intelligence(BI) Developer at Accenture.
+I am a Machine Learning Consultant at IQVIA. Previously, I was a graduate student at Arizona State University. I was advised by Dr. Hemanth Venkateshwara at [Centre for Cognitive Ubiquitous Computing (CUbiC)](https://cubic.asu.edu/). Before joining Masters program at ASU, I was a Data Analyst at Accenture.
 
 ### Interests:
 
-* Developing intelligent agents and representations that can enable learning from multiple modalities (such as Vision & Language) at the same time (Multi-Modal representation learning).
-* Developing objectives that can facilitate learning specific representations using naturally occurring labels in data (Self-Supervised Learning).
-* Understanding and enhancing mechanisms (such as attention) for cross-modal applications such as Image Captioning, Visual Question Answering.
+* Developing intelligent agents in healthcare that can assist doctors with early prognosis of medical conditions in patients.
+* Improving the explainability (and therefore the reliability) of deep learning models used in healthcare.
+* Enhancing the ability of models to learn from multiple modalities (such as, from image and text).
+* Utilizing naturally occurring signals in data for learning (Self-supervised learning). 

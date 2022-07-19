@@ -3,21 +3,28 @@ layout: default
 ---
 ## Research
 
-### Visual-Language Representation using Cross-Modal Attention
+## IQVIA
 
-I am currently exploring the problem of cross-modal representation for vision-language tasks such as Visual Question Answering/Image Captioning. There is growing interest in adapting BERT for handling such tasks. I am working on developing an attention-based architecture that can be better suited for modeling the shared space linking vision and language.
+At IQVIA, I am developing Machine Learning models that can assist doctors with early prognosis of medical conditions in patients.
+I am particularly interested in developing vision-based deep learning models that can utilize retinal scans for prognosis.
+
+## Arizona State University
+
+At ASU, I was exploring the problem of cross-modal representation for vision-language tasks such as Visual Question Answering/Image Captioning. I was working on developing attention-based architectures that is better suited for modeling the shared space between vision and language.
+
+[Master's Thesis](https://keep.lib.asu.edu/items/158120)
 
 ## Internship - Signify(Philips Lighting)
 
-I was fortunate to spend my summer at Signify research facility located at Cambridge, MA. 
+I spent my summer'20 at Signify research facility located at Cambridge, MA. 
 I worked with the smart-lightning R&D team to apply ML in understanding customer behavior in the smart-lighting sector.
 
 ## Academia
 
 ### Teaching Assistant - CSE 569 - Fundamentals of Statistical Learning
 
-I served as a TA for a graduate course on Machine Learning instructed by Dr.Hemanth Venkateshwara during Fall 2019 at ASU.
-The course introduces the students to the concepts in pattern recognition, Bayesian decision theory, parameter estimation, discriminant analysis, and neural networks.
+I served as a TA for a graduate course on Machine Learning instructed by Dr. Hemanth Venkateshwara during Fall 2019 at ASU.
+The course introduced the students to the concepts in pattern recognition, Bayesian decision theory, parameter estimation, discriminant analysis, and neural networks.
 
 ## Other Projects
 
