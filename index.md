@@ -15,6 +15,6 @@ I am a Machine Learning Consultant at IQVIA. Previously, I was a graduate studen
 ### Interests:
 
 * Developing intelligent agents in healthcare that can assist doctors with early prognosis of medical conditions in patients.
-* Improving the explainability (and therefore the reliability) of deep learning models used in healthcare.
+* Improving the explainability (and thereby the reliability) of deep learning models used in healthcare.
 * Enhancing the ability of models to learn from multiple modalities (such as, from image and text).
 * Utilizing naturally occurring signals in data for learning (Self-supervised learning). 
