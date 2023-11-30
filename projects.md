@@ -5,8 +5,10 @@ layout: default
 
 ## IQVIA
 
-At IQVIA, I am developing Machine Learning models that can assist doctors with early prognosis of medical conditions in patients.
-I am particularly interested in developing vision-based deep learning models that can utilize retinal scans for prognosis.
+At IQVIA, I have been working as a Machine Learning Consultant building large-scale ML models and tools for applications in Healthcare.
+* Built a grounded GPT-based Chatbot that answers medical queries with reliable, up-to-date information from
+internet.
+* Developed a Vision Transformer model for early detection of retinal conditions in patients, using retinal scans.
 
 ## Arizona State University
 
